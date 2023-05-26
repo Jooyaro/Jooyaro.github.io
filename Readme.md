@@ -1,6 +1,6 @@
 # Personal Portfolio 🔥
 
-> https://kukr.github.io/
+> https://hyunjookimmykim.github.io/
 
 <!-- :star: Star me on GitHub — it helps! -->
 
