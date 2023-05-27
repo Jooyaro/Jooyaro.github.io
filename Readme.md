@@ -1,6 +1,6 @@
 # Personal Portfolio 🔥
 
-> https://Jooyaro.github.io/
+> https://jooyaro.github.io/
 
 <!-- :star: Star me on GitHub — it helps! -->
 
