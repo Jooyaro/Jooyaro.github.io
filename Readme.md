@@ -29,8 +29,7 @@
 ## Sections 📚
 
 ✔️ About\
-✔️ Interests\
-✔️ Experience\
+✔️ Research\
 ✔️ Projects\
 ✔️ Resume
 
