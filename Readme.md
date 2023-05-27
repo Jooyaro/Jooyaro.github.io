@@ -32,7 +32,7 @@
 ✔️ Interests\
 ✔️ Experience\
 ✔️ Projects\
-✔️ Resume\
+✔️ Resume
 
 <!-- ✔️ Contact Info -->
 
