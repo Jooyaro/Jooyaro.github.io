@@ -31,7 +31,7 @@
 ✔️ About\
 ✔️ Research\
 ✔️ Projects\
-✔️ Resume
+✔️ CV
 
 <!-- ✔️ Contact Info -->
 
