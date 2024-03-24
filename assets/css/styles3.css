@@ -839,7 +839,7 @@ section .container {
   z-index: 3;
   transition: all ease-in-out 0.3s;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
