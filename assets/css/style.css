@@ -796,6 +796,13 @@ section .container {
   margin-right: 0;
 }
 
+/* Mar 23 */
+.portfolio .portfolio-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: start; /* or 'space-between', 'space-around' depending on the desired spacing */
+}
+
 .portfolio .portfolio-wrap {
   transition: 0.3s;
   position: relative;
